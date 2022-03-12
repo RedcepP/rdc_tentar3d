@@ -1,4 +1,3 @@
-
 RegisterCommand('tentar', function(source, args)
     local rdc = math.random(1,2)
     if rdc == 1 then
